@@ -1,0 +1,16 @@
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\FileReaderApp.exe
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\FileReaderApp.deps.json
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\FileReaderApp.runtimeconfig.json
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\FileReaderApp.runtimeconfig.dev.json
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\FileReaderApp.dll
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\ref\FileReaderApp.dll
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\bin\Debug\net5.0\FileReaderApp.pdb
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.csproj.AssemblyReference.cache
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.AssemblyInfoInputs.cache
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.AssemblyInfo.cs
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.csproj.CoreCompileInputs.cache
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.dll
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\ref\FileReaderApp.dll
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.pdb
+C:\Users\jmahsman\source\repos\FileReaderApp\FileReaderApp\obj\Debug\net5.0\FileReaderApp.genruntimeconfig.cache
